@@ -1,0 +1,4 @@
+# Ignore images
+/*/IMG/
+# Ignore merged result
+all/
