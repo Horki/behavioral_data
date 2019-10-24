@@ -25,7 +25,7 @@ Behavioral Cloning Project - Datasets
 
 ## Dataset four
 
-### Recovery Driving (track two)
+### Driving smoothly around curves (track two)
 
 * One lap of "smooth" driving
 * ![Alt Text](examples/test_4.gif)
