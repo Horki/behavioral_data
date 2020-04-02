@@ -7,28 +7,28 @@ Behavioral Cloning Project - Datasets
 ### Clockwise Centar Lane Driving (track one)
 
 * Three laps of center lane driving
-* ![Alt Text](examples/test_1.gif)
+* ![Alt Text](examples/test_1.webp)
 
 ## Dataset two
 
 ### Counter Clockwise Centar Lane Driving (track one)
 
 * Three laps of center lane driving
-* ![Alt Text](examples/test_2.gif)
+* ![Alt Text](examples/test_2.webp)
 
 ## Dataset three
 
 ### Recovery Driving (track one)
 
 * One lap of driving to left|right side than quick recover to center
-* ![Alt Text](examples/test_3.gif)
+* ![Alt Text](examples/test_3.webp)
 
 ## Dataset four
 
 ### Driving smoothly around curves (track two)
 
 * One lap of "smooth" driving
-* ![Alt Text](examples/test_4.gif)
+* ![Alt Text](examples/test_4.webp)
 
 ## Create Merged Result
 
